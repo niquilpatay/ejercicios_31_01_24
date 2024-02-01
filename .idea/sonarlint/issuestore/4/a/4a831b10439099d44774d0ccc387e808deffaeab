@@ -1,0 +1,33 @@
+
+R
+java:S3740É"/Provide the parametrized type for this generic.(äù°øøÿÿÿÿ8Þ¢¦–Ö1
+|
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢óõ–úÿÿÿÿ8ß¢¦–Ö1
+|
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬·ÊÜúÿÿÿÿ8ß¢¦–Ö1
+w
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(…Üãý8ß¢¦–Ö1
+l
+java:S1192ä"NDefine a constant instead of duplicating this literal "-------------" 4 times.(°É¿ä8ß¢¦–Ö1
+^
+java:S1854¢"@Remove this useless assignment to local variable "totalCarrera".(¤ÏùÛ8æ¢¦–Ö1
+Y
+java:S1854¡"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ8æ¢¦–Ö1
+]	java:S125	"<This block of commented-out lines of code should be removed.(ìÈÙøýÿÿÿÿ8è¢¦–Ö1
+X	java:S125"<This block of commented-out lines of code should be removed.(èáð8è¢¦–Ö1
+X	java:S125'"<This block of commented-out lines of code should be removed.(×Ý—Š8è¢¦–Ö1
+X	java:S125T"<This block of commented-out lines of code should be removed.(´Æ¶è8è¢¦–Ö1
+J
+java:S1481¡"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ8ì¢¦–Ö1
+M	java:S106à"+Replace this use of System.out by a logger.(Ý•¸Óùÿÿÿÿ8ô¢¦–Ö1
+M	java:S106â"+Replace this use of System.out by a logger.(¢Šßèûÿÿÿÿ8ô¢¦–Ö1
+H	java:S106ä"+Replace this use of System.out by a logger.(°É¿ä8õ¢¦–Ö1
+H	java:S106æ"+Replace this use of System.out by a logger.(èð ¼8õ¢¦–Ö1
+M	java:S106è"+Replace this use of System.out by a logger.(Ï€Æùûÿÿÿÿ8õ¢¦–Ö1
+H	java:S106ê"+Replace this use of System.out by a logger.(…°‡þ8õ¢¦–Ö1
+M	java:S106ì"+Replace this use of System.out by a logger.(–Ÿáõûÿÿÿÿ8ö¢¦–Ö1
+H	java:S106î"+Replace this use of System.out by a logger.(ÙŸþ‡8ö¢¦–Ö1
+H	java:S106ð"+Replace this use of System.out by a logger.(¢Á‚ñ8ö¢¦–Ö1
+H	java:S106ó"+Replace this use of System.out by a logger.(þñŒ´8ö¢¦–Ö1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8›º¦–Ö1
